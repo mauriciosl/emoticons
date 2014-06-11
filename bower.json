@@ -1,0 +1,23 @@
+{
+  "name": "emoticons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mauriciosl/emoticons",
+  "authors": [
+    "me@mauriciosl.com"
+  ],
+  "description": "parse a text into graphic emoticons",
+  "main": "emoticons.js",
+  "keywords": [
+    "emoticon",
+    "emoticons",
+    "emoji"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
